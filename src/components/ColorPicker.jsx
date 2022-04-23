@@ -12,7 +12,7 @@ import React, { useEffect, useRef, useState } from 'react';
 import PropTypes from 'prop-types';
 import TextField from '@mui/material/TextField';
 import Popover from '@mui/material/Popover';
-import { StylesProvider, createGenerateClassName, makeStyles } from '@mui/styles';
+import { StylesProvider, createGenerateClassName, makeStyles } from '@mui/material';
 
 import ColorButton from './ColorButton';
 import ColorBox from './ColorBox';
